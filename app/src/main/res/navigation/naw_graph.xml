@@ -31,4 +31,9 @@
 
 
     </fragment>
+    <fragment
+        android:id="@+id/navigation_random"
+        tools:layout="@layout/fragment_random"
+        android:name="com.example.newapplication.Fragments.RandomFragment"
+        android:label="RandomFragment" />
 </navigation>

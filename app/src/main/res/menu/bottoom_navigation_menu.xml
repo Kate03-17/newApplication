@@ -11,9 +11,12 @@
     <item
         android:icon="@drawable/ic_baseline_notifications_24"
         android:title="Notifications"
-        android:id="@+id/navigation_notifications" >
+        android:id="@+id/navigation_notification" />
+    <item
+        android:icon="@drawable/ic_baseline_device_unknown_24"
+        android:title="Random"
+        android:id="@+id/navigation_random" />
 
-    </item>
 
 
 </menu>
